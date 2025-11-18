@@ -1,0 +1,28 @@
+{
+  "name": "agentic-7d2aa7e1",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "ai": "^3.3.20",
+    "@ai-sdk/openai": "^0.0.44",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/react": "18.3.12",
+    "@types/node": "20.14.15"
+  }
+}
